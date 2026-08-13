@@ -1,9 +1,9 @@
 ---
-name: pinterest-depop-shopper
-description: Turn a Pinterest clothing board into a durable style profile, then hunt Depop for live, size-matched secondhand pieces. Use when the user wants to shop Depop, Grailed-style resale, thrifted or vintage clothes from saved inspiration, or to build or refresh a style profile from a Pinterest board.
+name: fitz
+description: Fitz is a Pinterest-to-Depop shopper. It turns a clothing inspiration board into a durable style profile, then hunts live, size-matched secondhand pieces. Use when the user wants to shop Depop, Grailed-style resale, thrifted or vintage clothes from saved inspiration, or to build or refresh a style profile from a Pinterest board.
 ---
 
-# Pinterest to Depop shopper
+# Fitz
 
 Read `references/style-profile.md` first if it exists. That file is the source of truth. Update it in place. Merge on refresh. Do not overwrite. Do not stash the profile only in memory.
 

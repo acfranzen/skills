@@ -6,17 +6,17 @@ Public agent skills for [skills.sh](https://skills.sh).
 npx skills add acfranzen/skills
 ```
 
-Install one skill:
+Install Fitz only:
 
 ```bash
-npx skills add acfranzen/skills --skill pinterest-depop-shopper
+npx skills add acfranzen/skills --skill fitz
 ```
 
 ## Skills
 
 | Skill | What it does |
 | --- | --- |
-| [pinterest-depop-shopper](skills/pinterest-depop-shopper) | Turn a Pinterest clothing board into a style profile, then hunt live Depop listings |
+| [Fitz](skills/fitz) | Pinterest board in, live Depop haul out |
 
 Glance lives in its own repo: [acfranzen/glance](https://github.com/acfranzen/glance).
 
