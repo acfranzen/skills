@@ -6,10 +6,11 @@ Public agent skills for [skills.sh](https://skills.sh).
 npx skills add acfranzen/skills
 ```
 
-Install Fitz only:
+Install one skill:
 
 ```bash
 npx skills add acfranzen/skills --skill fitz
+npx skills add acfranzen/skills --skill simply
 ```
 
 ## Skills
@@ -17,6 +18,7 @@ npx skills add acfranzen/skills --skill fitz
 | Skill | What it does |
 | --- | --- |
 | [Fitz](skills/fitz) | Pinterest board in, live Depop haul out |
+| [simply](skills/simply) | Google developer docs style. Dead prose. No aphorisms, no flourishes. |
 
 Glance lives in its own repo: [acfranzen/glance](https://github.com/acfranzen/glance).
 
